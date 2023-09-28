@@ -1,5 +1,7 @@
 ## ISMINIMIN 🙊
+,,,
 
+<!--
 #### Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -18,6 +20,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![Adobe Indesign](https://img.shields.io/badge/Adobe%20Indesign-FF3366.svg?&style=for-the-badge&logo=AdobeIndesign&logoColor=white)
+--!>
 
 <!--
 **ISMINIMIN/ISMINIMIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
